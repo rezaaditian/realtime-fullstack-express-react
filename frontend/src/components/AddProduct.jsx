@@ -45,7 +45,7 @@ const AddProduct = () => {
             />
           </div>
           <div className="mb-5">
-            <label className="font-bold text-slate-800">QTY</label>
+            <label className="font-bold text-slate-800">Quantity</label>
             <input
               type="number"
               name="qty"

@@ -47,7 +47,7 @@ const Home = () => {
               <tr>
                 <th className="py-3 px-1 text-center">No</th>
                 <th className="py-3 px-1">Product Name</th>
-                <th className="py-3 px-1 text-right">QTY</th>
+                <th className="py-3 px-1 text-right">Quantity</th>
                 <th className="py-3 px-1 text-right">Price</th>
                 <th className="py-3 px-1 text-center">Action</th>
               </tr>
